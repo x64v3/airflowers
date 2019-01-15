@@ -148,3 +148,5 @@ ec.order.extraFields.ecwid_pickup_time = {
     }
   ]
 };
+
+Ecwid.refreshConfig();
