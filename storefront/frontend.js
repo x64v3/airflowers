@@ -13,3 +13,5 @@ ec.order.extraFields.wrapping_box_signature = {
 };
 
 Ecwid.refreshConfig();
+
+// Check CDN update (15:15)
